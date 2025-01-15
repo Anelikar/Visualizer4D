@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Info String Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Info String Table
+  m_TableCollectionNameGuidString: 9c5dc1c5124468d4f8190cef49286c62
+  m_Entries:
+  - m_Id: 20997321019392
+    m_Key: Intro01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21070268354560
+    m_Key: Intro02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21092292644864
+    m_Key: Intro03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1299997020160
+    m_Key: Intro1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4725394806427648
+    m_Key: Intro2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1364098568192
+    m_Key: Intro2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406570090496
+    m_Key: Intro3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429005422592
+    m_Key: Intro4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453940559872
+    m_Key: Intro5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1476514304000
+    m_Key: Intro6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486467387392
+    m_Key: Intro7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1604822257664
+    m_Key: Intro8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1627458916352
+    m_Key: Intro9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1636547973120
+    m_Key: Intro10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1646387810304
+    m_Key: Intro11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1661948678144
+    m_Key: Intro12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1797399531520
+    m_Key: Intro13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809231663104
+    m_Key: Intro14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1820552089600
+    m_Key: Intro15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508849958912
+    m_Key: Tutorial1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2569990328320
+    m_Key: Tutorial2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2578462822400
+    m_Key: Tutorial3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2621999697920
+    m_Key: Tutorial7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637455708160
+    m_Key: Tutorial8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289365949403136
+    m_Key: Tutorial8_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289435616792576
+    m_Key: Tutorial8_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589082800128
+    m_Key: Tutorial4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2597710483456
+    m_Key: Tutorial5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611887230976
+    m_Key: Tutorial6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289481699610624
+    m_Key: Tutorial6_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289511655329792
+    m_Key: Tutorial6_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289538394017792
+    m_Key: Tutorial6_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2645458440192
+    m_Key: Tutorial9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2655805788160
+    m_Key: Tutorial10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394170537365504
+    m_Key: Tesseract1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394218859941888
+    m_Key: Tesseract2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394219795271680
+    m_Key: Tesseract3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394220730601472
+    m_Key: Tesseract4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394221594628096
+    m_Key: Tesseract5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394222450266112
+    m_Key: Tesseract6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394223217823744
+    m_Key: Tesseract7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394223985381376
+    m_Key: Tesseract8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394224786493440
+    m_Key: Tesseract9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394225776349184
+    m_Key: Tesseract10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394523706150912
+    m_Key: Tesseract11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394524775698432
+    m_Key: Tesseract12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394525765554176
+    m_Key: Tesseract13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394526805741568
+    m_Key: Tesseract14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289563115245568
+    m_Key: Tesseract14_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394528173084672
+    m_Key: Tesseract15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394533801840640
+    m_Key: Tesseract16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394536918208512
+    m_Key: Tesseract17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998493007872
+    m_Key: Lecture1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3026875863040
+    m_Key: Lecture2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3043955068928
+    m_Key: Lecture3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3050812755968
+    m_Key: Lecture4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3058266034176
+    m_Key: Lecture5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3067795492864
+    m_Key: Lecture6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077605969920
+    m_Key: Lecture7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3085583536128
+    m_Key: Lecture8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3093393330176
+    m_Key: Lecture9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3101366702080
+    m_Key: Lecture10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3117036621824
+    m_Key: Lecture11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3124158550016
+    m_Key: Lecture12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129736974336
+    m_Key: Lecture13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3136661770240
+    m_Key: Lecture14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3143351685120
+    m_Key: Lecture15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3151069204480
+    m_Key: Lecture16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3158325350400
+    m_Key: Lecture17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3166005121024
+    m_Key: Lecture18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289588318818304
+    m_Key: Lecture18_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289616638758912
+    m_Key: Lecture18_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3173202546688
+    m_Key: Lecture19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3183373733888
+    m_Key: Lecture20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202382319616
+    m_Key: Lecture21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289649538879488
+    m_Key: Lecture21_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289676176904192
+    m_Key: Lecture21_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29289700193488896
+    m_Key: Lecture21_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3208648609792
+    m_Key: Lecture22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3214088622080
+    m_Key: Lecture23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3220224888832
+    m_Key: Lecture24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3227657195520
+    m_Key: Lecture25
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8997720875413274656
+  references:
+    version: 2
+    RefIds:
+    - rid: 8997720875413274656
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729603060341

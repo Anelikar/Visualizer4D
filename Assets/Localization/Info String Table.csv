@@ -1,0 +1,83 @@
+Key,Id,English(en),Russian(ru)
+Intro01,20997321019392,Welcome to my VR demo,Приветствую вас в моем VR демо
+Intro02,21070268354560,,
+Intro03,21092292644864,"(Press the ""Next"" button in front of you by touching it with a controller)","(Нажмите кнопку ""Далее"" перед собой, коснувшись её контроллером)"
+Intro1,1299997020160,First look around you,Посмотрите по сторонам
+Intro2,4725394806427648,using left thumbstick,с помощью левого стика
+Intro2_1,1364098568192,"(And press ""Next"" again to continue)","(И нажмите ""Далее"" еще раз, чтобы продолжить)"
+Intro3,1406570090496,Everything you see around you is 3D,"Всё, что вы видите вокруг - 3D"
+Intro4,1429005422592,Meaning you can describe the position of everything using 3 numbers - dimensions,"Это значит, что позицию всего вокруг можно описать 3 числами - координатами"
+Intro5,1453940559872,"X, Y and Z - two horizontal and a vertical axis","X, Y и Z - две горизонтальные и одна вертикальная ось"
+Intro6,1476514304000,However I would like to show you how the world would have looked,"Но я хочу показать, как мог бы выглядеть мир"
+Intro7,1486467387392,If it had 4 dimensions,если бы в нем было 4 координаты
+Intro8,1604822257664,,
+Intro9,1627458916352,Sadly it's impossible to draw a fourth axis,"К сожалению, в нашем мире невозможно начертить четвёртую ось координат"
+Intro10,1636547973120,perpendicular to the other three,перпендикулярно трём существующим
+Intro11,1646387810304,,
+Intro12,1661948678144,However we can show 3D shapes on paper,"Но мы же можем изображать 3D фигуры на бумаге,"
+Intro13,1797399531520,"and that means we can ""draw"" a 4D shape in 3D space","а значит сможем и ""нарисовать"" 4D фигуру в 3D пространстве"
+Intro14,1809231663104,"But a simple ""drawing"" won't show that this shape is 4D","Но просто ""рисунок"" не покажет, что эта фигура четырёхмерная"
+Intro15,1820552089600,For this we have to rotate it around the fourth axis,Для этого нам надо её повернуть вокруг четвертой оси координат
+Tutorial1,2508849958912,To move around use the right thumbstick,"Для перемещения, используйте правый стик"
+Tutorial2,2569990328320,And use the left thumbstick for turning,А для поворота - левый
+Tutorial3,2578462822400,(The “Next” button is now on the front side of the pedestal),(Кнопка Далее теперь находится на передней стороне пьедестала)
+Tutorial7,2621999697920,"To grab something, touch it with a controller","Чтобы что-то взять, коснитесь предмета контроллером"
+Tutorial8,2637455708160,And press the Side Trigger,И нажмите Боковой Триггер
+Tutorial8_1,29289365949403136,You can operate levers and knobs this way,Так вы можете переключить рычаги или реле перед вами
+Tutorial8_2,29289435616792576,Or move the control panel itself,Или переместить саму панель управления
+Tutorial4,2589082800128,You can also move around using teleportation,Вы также можете использовать перемещение телепортацией
+Tutorial5,2597710483456,You can switch to this movement mode using a control panel,Этот режим можно включить на панели управления
+Tutorial6,2611887230976,Play around with settings and use whatever is comfortable for you,"Попробуйте разные настройки, чтобы найти самые удобные для вас"
+Tutorial6_1,29289481699610624,To show the teleportation rays press A or X,Чтобы включить лучи телепортации нажмите A или X
+Tutorial6_2,29289511655329792,Point at the floor then press the Side Trigger to teleport,А для телепорта наведитесь ими на пол и нажмите Боковой Триггер
+Tutorial6_3,29289538394017792,(Teleportation will only work if it's enabled on the control panel),(Это сработает только если включено перемещение телепортацией)
+Tutorial9,2645458440192,We are done with the controls!,Мы закончили с управлением!
+Tutorial10,2655805788160,And can get back to our 4D shape,И можем вернуться к 4D фигуре
+Tesseract1,394170537365504,"This one is called “Tesseract”, a 4D cube","Эта фигура называется ""Тессеракт"", 4D куб"
+Tesseract2,394218859941888,"As when you ""stretch out"" a 2D square into the third dimension you get a 3D cube","Также как если “вытянуть” 2D квадрат в третье измерение, получится 3D куб"
+Tesseract3,394219795271680,"If you ""stretch out"" a 3D cube into fourth - you get a 4D tesseract",Если 3D куб “вытянуть” в четвертое - получится 4D тессеракт
+Tesseract4,394220730601472,So let me tell you how to control this tesseract,"Давайте я расскажу, как управлять этим тессерактом"
+Tesseract5,394221594628096,You can either use the control panel,Вы можете использовать панель управления
+Tesseract6,394222450266112,(Press the button on the right side to switch to the tesseract controls),(Нажмите кнопку на её правой стороне чтобы переключиться на управление тессерактом)
+Tesseract7,394223217823744,Or grab the rings around it to spin it yourself,Или возьмитесь за кольца вокруг него чтобы повернуть его вручную
+Tesseract8,394223985381376,"If you want to move the tesseract, just grab the crystal in the middle","Чтобы переместить тессеракт, возьмитесь за кристалл в его центре"
+Tesseract9,394224786493440,Rotating something in 4 dimensions is a bit trickier than normal,"Вращение объектов в 4D несколько сложнее, чем обычно"
+Tesseract10,394225776349184,"You probably noticed, that there are 6 axis of rotation instead of the usual 3","Вы уже могли заметить, что у тессеракта 6 осей вращения, а не 3"
+Tesseract11,394523706150912,They are labeled on the control pedestal,Они подписаны на пьедестале
+Tesseract12,394524775698432,"But on gizmos, the usual x, y and z axis are the inner ones","А на рамках, обычные x, y и z находятся внутри"
+Tesseract13,394525765554176,"While xw, yw and zw - the 4th dimension ones - are the outer","А xw, yw, и zw - оси 4 измерения - снаружи"
+Tesseract14,394526805741568,If you want to reset the tesseract rotation press the “reset” button,"Если вы хотите сбросить поворот тессеракта, нажмите кнопку ""сброс"""
+Tesseract14_1,29289563115245568,on the right side of the pedestal,на правой стороне пьедестала
+Tesseract15,394528173084672,"You can also make the tesseract rotate by itself, like it did in the beginning","Также вы можете задать тессеракту постоянное вращение, которое было у него в начале"
+Tesseract16,394533801840640,"To do that, press the button in the middle of the control pedestal","Чтобы это сделать, нажмите кнопку в центре панели управления"
+Tesseract17,394536918208512,It will switch the knobs to be setting the constant rotations instead of controlling the tesseract,Она переключит реле в режим настройки постоянного вращения
+Lecture1,2998493007872,,
+Lecture2,3026875863040,In this demo I wanted to show how cool these 4D shapes look,В этом демо я просто хотел показать насколько интересно выглядят 4D фигуры
+Lecture3,3043955068928,But these projections actually have real uses,Но у таких проекций 4D есть и практическое применение
+Lecture4,3050812755968,If you already tried to spin this tesseract,Если вы уже пробовали вращать этот тессеракт
+Lecture5,3058266034176,"You might have noticed, that it’s becoming harder to spin in some directions","Вы наверное заметили, что становится тяжелее найти ось, которая повернет его в нужную сторону"
+Lecture6,3067795492864,Multiple gizmos are starting to do the same thing,Несколько рамок поворачивают фигуру одинаково
+Lecture7,3077605969920,This is called “Gimbal Locking”,"Это называется ""Шарнирный замок"""
+Lecture8,3085583536128,It’s a known problem that occurs while using 3 axis to rotate objects,Это известная проблема появляющаяся при вращении объектов используя 3 координаты
+Lecture9,3093393330176,And it’s even more noticeable if you have 6 axis instead of 3,"Она еще более заметна, когда используются 6 координат"
+Lecture10,3101366702080,"To avoid it, we can use something called a “Quaternion”","Чтобы избежать этого, используются ""Кватернионы"""
+Lecture11,3117036621824,They are 4D vectors and they can be imagined as points in 4D space,"Это 4D векторы, и их можно представить как координаты точек в 4D пространстве"
+Lecture12,3124158550016,Using them in rotation calculations,Вычисляя вращения с их помощью
+Lecture13,3129736974336,The Gizmal lock can be avoided,"Можно избежать “Шарнирный замок”, который я описал раньше"
+Lecture14,3136661770240,But these quaternions are very unintuitive to work with,Но работа с кватернионами весьма неинтуитивна
+Lecture15,3143351685120,And while it's usually enough to just apply quaternions to the rotation of the object,"И хотя обычно достаточно просто применить кватернион к вращению объекта,"
+Lecture16,3151069204480,It can be useful to get an intuition of this operation,Получить интуитивное понимание их работы может быть интересно
+Lecture17,3158325350400,To understand how quaternions control rotation,"Чтобы понять, как кватернионы управляют вращениями"
+Lecture18,3166005121024,One way to get this intuition is to display quaternions as 4D points in space,Один из способов понять это - изобразить кватернионы как точки в 4D пространстве
+Lecture18_1,29289588318818304,Show them alongside the rotating object,Показать их в 3D пространстве вместе с вращаемым объектом
+Lecture18_2,29289616638758912,And and observe their relationship,И пронаблюдать их взаимосвязь
+Lecture19,3173202546688,Another use for 4d visualisation is drawing multidimensional graphs,Другое применение 4D визуализации - отображение многомерных графов
+Lecture20,3183373733888,In situations where a graph has a lot of interconnected elements,"В ситуациях, когда граф имеет очень большое количество связанных элементов"
+Lecture21,3202382319616,It can be useful to project it onto a sphere,Может быть полезно изобразить его на 3D сфере
+Lecture21_1,29289649538879488,And when it is not enough to improve its readability,"А в случаях, когда это всё ещё не улучшает наглядность"
+Lecture21_2,29289676176904192,A projection onto a 4D hypersphere,Можно использовать проекцию 4D гиперсферы
+Lecture21_3,29289700193488896,Can help understand the connections between elements of the graph,И облегчить понимание взаимосвязи отдельных элементов графа
+Lecture22,3208648609792,So there you go,Вот и все
+Lecture23,3214088622080,,
+Lecture24,3220224888832,"If you liked this demo, contact me at t.me/Anelikar or in any other way","Если вам понравилось, напишите мне в t.me/Anelikar или по любым другим контактам"
+Lecture25,3227657195520,Have a nice day!,Хорошего вам дня!
